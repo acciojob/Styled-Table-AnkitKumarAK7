@@ -1,1 +1,12 @@
 /* your code */
+table{
+	border-collapse: collapse;
+	border:0.1px solid gray;
+	border-radius: 20px;
+	width:600px;
+}
+thead{
+	background-color:rgb(33,90,142);
+	color:white;
+}
+
